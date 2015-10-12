@@ -2,6 +2,7 @@ bin/
 data/Oscars
 data/ParisSearchJan
 data/ParisSearchFeb
+data/NewYorkOneWeek
 data/*.gz
 
 .settings/
